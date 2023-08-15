@@ -1,7 +1,8 @@
-# javascript-quiz
+node interview code challenge
 
-# This is my Javascript code challenge
 
-# Node Version 18.13
+- Node Version 18.13
 
-# For Running the tests: node 1.1.js
+- For Running:
+  - first, install the latest version of the node
+  - cd Project Folder and then node 1.1.js
